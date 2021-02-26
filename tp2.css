@@ -1,0 +1,78 @@
+@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Crimson+Text&family=PT+Sans+Narrow&display=swap');
+
+
+body {
+  background-image: url('../img/fondo.png');
+  background-size: 200%;
+  background-position: top left;
+  }
+
+
+.nav-wrapper{
+  background-color: #2b824c;
+}
+
+.container{
+  background-color: #3cb08f;
+  border-radius: 15px;
+  width: 880px;
+
+  margin: 0px auto;
+  padding: 20px;
+  border: 2px solid;
+  text-align: center;
+  overflow: hidden;
+}
+
+h1, h2{
+  font-family: 'Bebas Neue';
+}
+
+h3{
+  font-size: "600px";
+  color: black;
+  font-family: 'PT Sans Narrow';
+}
+
+.titulo{
+  font-family: 'Bebas Neue';
+  color: #1d5c35;
+}
+
+.p{
+  font-size: 25px;
+  font-family: 'PT Sans Narrow';
+}
+
+.aclara{
+  font-size: 17px;
+}
+
+.container{
+    padding: 2px 30px;
+    color: black;
+}
+
+.sarasa{
+  color: black;
+}
+
+.carousel-item{
+width: 200%;
+height: 200%;
+}
+
+.tacto a:hover{
+  color: #9c179a;
+  text-decoration: underline;
+}
+
+img.responsive-img:hover {
+  opacity: 0.65;
+}
+
+
+
+.card-content{
+  background-color: #3ab067;
+}
